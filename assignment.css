@@ -1,0 +1,15 @@
+.topbar{
+    display: flex;
+    flex-direction: row;  
+}
+.topbar div{
+    margin: 6px;
+    padding: 5px;
+    
+}
+div>div:last-of-type{
+    align-items: right;
+}
+div>div:first-of-type{
+    
+}
